@@ -1,6 +1,6 @@
 # Crystal-lang
 
-[Crystal-lang](https://crystal-lang.org/) is a new language.
+[Crystal-lang](https://crystal-lang.org/) is a new language I found today.
 
 # How to start
 
