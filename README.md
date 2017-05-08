@@ -1,13 +1,19 @@
 # Crystal-lang
 
-[Crystal-lang](https://crystal-lang.org/) is a new language I found today.
+This project is practice for Crystal.
 
-# How to start
+## Installation
 
-1. `brew install crystal-lang`
-2. Just command as `crystal hello.cr`
-3. You will see `Hello world!`
+Add this to your application's `shard.yml`:
 
-# Maybe more later
+```yaml
+dependencies:
+  crystal-lang:
+    github: [your-github-name]/crystal-lang
+```
 
-Thx~
+## Usage
+
+```crystal
+require "crystal-lang"
+```

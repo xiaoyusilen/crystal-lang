@@ -1,0 +1,9 @@
+name: crystal-lang
+version: 0.1.0
+
+authors:
+  - xiaoyusilen <kleineweltzhang@hotmail.com>
+
+crystal: 0.22.0
+
+license: MIT
